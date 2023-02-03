@@ -1,38 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# A Home Made Sync Slider in ReactJs/NextJs
 
-## Getting Started
+## Following the Slick Slider Concept
 
-First, run the development server:
+**It's interesting**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<i>In my Opinion</i> The Slider is one of the most demanding yet most painful part of Front-End Development. To be honest, most of the slider's functions goes over developers head. We simply follow, <b> As long as it's working, keep using </b>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### No Extra/3rd party Library has used
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+**As I mention Before** No packages satisfied me, so I just built this one in Reactjs, Tailwind CSS
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### But You have used Next.js Cheater!
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Becuase, even Reactjs suggest to use Next.js for Server-Side Projects. And as a developer, we all know, **Most of the projects are connected with server, and has complex UI**. So, I have just used the Framework on top of React.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### But Hey don't worry, I haven't used any Server-Side Feature of Next.js
 
-## Learn More
+The Codes are completely client-side. (_useEffect hook_) Which any developer has learned as a begineer of ReactJs journey.
 
-To learn more about Next.js, take a look at the following resources:
+## Thank you for visiting My Works.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This means a lot to me and I'd like to say, **I'm open for work** If you think I'm suitable for any job that you're currently having in your mind, please don't hasitate to reach me out.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**[Email Me](mailto:malinjr07@gmail.com)** <br/>
+**[Visit My LinkedIn Profile](https://www.linkedin.com/in/malinjr07/)**
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[Visit on StackBlitz ⚡️](https://stackblitz.com/edit/react-slick-slider-home-made)
